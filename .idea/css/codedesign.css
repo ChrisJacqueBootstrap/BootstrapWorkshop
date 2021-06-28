@@ -5,7 +5,6 @@
     border-radius: 50%;
     display: inline-block;
 }
-
 body {
     display: flex;
     justify-content: center;
@@ -15,7 +14,7 @@ body {
     padding: 10px;
     background-color: lightgray;
 }
-images {
+img {
     display: flex;
     text-align: center;
 
@@ -23,4 +22,9 @@ images {
 h1{
     display: flex;
     justify-content: center;
+}
+circle{
+    position: relative;
+    line-height: 0;
+    background-color: red;
 }
