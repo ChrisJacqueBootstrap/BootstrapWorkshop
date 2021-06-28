@@ -1,6 +1,19 @@
+.first-circles{
+    display: flex;
+    align-content: center;
+    padding: 20px;
+    margin: 0 30px;
+}
+.dots {
+    height: 225px;
+    width: 225px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
 .dot {
-    height: 25px;
-    width: 25px;
+    height: 50px;
+    width: 50px;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
@@ -23,8 +36,11 @@ h1{
     display: flex;
     justify-content: center;
 }
-circle{
-    position: relative;
-    line-height: 0;
-    background-color: red;
+
+
+.header-img{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 0 -30px;
 }
