@@ -9,15 +9,34 @@
     width: 225px;
     background-color: #bbb;
     border-radius: 50%;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: solid white 10px;
 }
 .dot {
     height: 50px;
     width: 50px;
     background-color: #bbb;
     border-radius: 50%;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+.red {
+    background-color: red;
+}
+.orange {
+    background-color: orange;
+}
+.green {
+    background-color: green;
+}
+.teal {
+    background-color: teal;
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -27,11 +46,7 @@ body {
     padding: 10px;
     background-color: lightgray;
 }
-img {
-    display: flex;
-    text-align: center;
 
-}
 h1{
     display: flex;
     justify-content: center;
@@ -43,4 +58,9 @@ h1{
     justify-content: center;
     background-color: white;
     margin: 0 -30px;
+}
+.laptop-img{
+   display: flex;
+   justify-content: center;
+   height: auto;
 }
