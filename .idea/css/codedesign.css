@@ -1,87 +1,87 @@
 
-    .first-circles {
-        display: flex;
-        justify-content: center;
-        padding: 20px;
-        margin: 0 25px;
-    }
-    .second-circles {
-        display: flex;
-        align-content: center;
-        margin-top: 10px;
+.first-circles {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 0 25px;
+}
+.second-circles {
+    display: flex;
+    align-content: center;
+    margin-top: 10px;
 
-    }
+}
 
-    .dots {
-        height: 100px;
-        width: 100px;
-        background-color: #bbb;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: white;
-        border: solid white 5px;
-    }
+.dots {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: solid white 5px;
+}
 
-    .dot {
-        height: 25px;
-        width: 25px;
-        background-color: #bbb;
-        border-radius: 85%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border: none;
-        margin: 0;
-    }
-    .first-card{
-        display: flex;
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin: 0;
+}
+.first-card{
+    display: flex;
 
-    }
+}
 
-    .red {
-        background-color: red;
-    }
+.red {
+    background-color: red;
+}
 
-    .orange {
-        background-color: orange;
-    }
+.orange {
+    background-color: orange;
+}
 
-    .green {
-        background-color: green;
-    }
+.green {
+    background-color: green;
+}
 
-    .teal {
-        background-color: teal;
-    }
+.teal {
+    background-color: teal;
+}
 
-    body {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        border: 10px;
-        margin: 15px;
-        padding: 10px;
-        background-color: lightgray;
-    }
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 10px;
+    margin: 15px;
+    padding: 10px;
+    background-color: lightgray;
+}
 
-    h1 {
-        display: flex;
-        justify-content: center;
-    }
+h1 {
+    display: flex;
+    justify-content: center;
+}
 
 
-    .header-img {
-        display: flex;
-        justify-content: center;
-        background-color: white;
-        margin: 0 -30px;
-    }
+.header-img {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 0;
+}
 
-    /*.laptop-img {*/
-    /*    display: flex;*/
-    /*    justify-content: center;*/
-    /*    height: auto;*/
-    /*    background-color: none;*/
-    /*}*/
+/*.laptop-img {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    height: auto;*/
+/*    background-color: none;*/
+/*}*/
