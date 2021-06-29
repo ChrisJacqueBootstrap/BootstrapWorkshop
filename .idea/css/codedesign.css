@@ -79,6 +79,6 @@
         height: auto;
     }
 
-   #hr{
-       color: forestgreen;
-   }
+    #hr-green {
+        border-bottom: 5px solid black;
+    }
