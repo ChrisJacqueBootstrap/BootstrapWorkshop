@@ -32,6 +32,12 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        border: none;
+        margin: 0;
+    }
+    .first-card{
+        display: flex;
+
     }
 
     .red {
