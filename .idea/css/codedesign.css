@@ -1,4 +1,3 @@
-
 .first-circles {
     display: flex;
     justify-content: center;
@@ -9,7 +8,6 @@
     display: flex;
     align-content: center;
     margin-top: 10px;
-
 }
 
 .dots {
@@ -79,9 +77,3 @@ h1 {
     margin: 0;
 }
 
-/*.laptop-img {*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    height: auto;*/
-/*    background-color: none;*/
-/*}*/
