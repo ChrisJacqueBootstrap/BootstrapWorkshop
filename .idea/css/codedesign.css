@@ -1,7 +1,7 @@
 
     .first-circles {
         display: flex;
-        align-content: center;
+        justify-content: center;
         padding: 20px;
         margin: 0 25px;
     }
@@ -79,9 +79,9 @@
         margin: 0 -30px;
     }
 
-    .laptop-img {
-        display: flex;
-        justify-content: center;
-        height: auto;
-        background-color: none;
-    }
+    /*.laptop-img {*/
+    /*    display: flex;*/
+    /*    justify-content: center;*/
+    /*    height: auto;*/
+    /*    background-color: none;*/
+    /*}*/
