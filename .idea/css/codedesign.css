@@ -32,6 +32,12 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        border: none;
+        margin: 0;
+    }
+    .first-card{
+        display: flex;
+
     }
 
     .red {
@@ -77,8 +83,5 @@
         display: flex;
         justify-content: center;
         height: auto;
-    }
-
-    #hr-green {
-        border-bottom: 5px solid black;
+        background-color: none;
     }
