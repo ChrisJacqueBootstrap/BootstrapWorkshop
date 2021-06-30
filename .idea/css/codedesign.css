@@ -1,3 +1,4 @@
+
 li {
     display:flex;
     padding: none;
@@ -15,66 +16,86 @@ li {
         align-content: center;
         margin-top: 10px;
 
-    }
+.first-circles {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 0 25px;
+}
+.second-circles {
+    display: flex;
+    align-content: center;
+    margin-top: 10px;
+}
 
-    .dots {
-        height: 100px;
-        width: 100px;
-        background-color: #bbb;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: white;
-        border: solid white 5px;
-    }
+.dots {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: solid white 5px;
+}
 
-    .dot {
-        height: 25px;
-        width: 25px;
-        background-color: #bbb;
-        border-radius: 85%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border: none;
-        margin: 0;
-    }
-    .first-card{
-        display: flex;
 
-    }
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin: 0;
+}
+.first-card{
+    display: flex;
 
-    .red {
-        background-color: red;
-    }
+}
 
-    .orange {
-        background-color: orange;
-    }
+.red {
+    background-color: red;
+}
 
-    .green {
-        background-color: green;
-    }
+.orange {
+    background-color: orange;
+}
 
-    .teal {
-        background-color: teal;
-    }
+.green {
+    background-color: green;
+}
 
-    body {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        border: 10px;
-        margin: 15px;
-        padding: 10px;
-        background-color: lightgray;
-    }
+.teal {
+    background-color: teal;
+}
 
-    h1 {
-        display: flex;
-        justify-content: center;
-    }
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 10px;
+    margin: 15px;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+/*.header-img {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    background-color: white;*/
+/*    margin: 0;*/
+/*}*/
+
 
 
     .header-img {
