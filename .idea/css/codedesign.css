@@ -1,3 +1,9 @@
+li {
+    display:flex;
+    padding: none;
+    justify-content: center;
+    align-items: center;
+}
 .first-circles {
     display: flex;
     justify-content: center;
@@ -8,6 +14,7 @@
     display: flex;
     align-content: center;
     margin-top: 10px;
+
 }
 
 .dots {
@@ -71,9 +78,18 @@ h1 {
 
 
 .header-img {
+    top: 10px;
+    /*width: 525px;*/
     display: flex;
     justify-content: center;
     background-color: white;
-    margin: 0;
+    margin: 25px auto;
 }
+
+/*.laptop-img {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    height: auto;*/
+/*    background-color: none;*/
+/*}*/
 
