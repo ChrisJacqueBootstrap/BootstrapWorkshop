@@ -1,21 +1,9 @@
-
 li {
     display:flex;
     padding: none;
     justify-content: center;
     align-items: center;
 }
-    .first-circles {
-        display: flex;
-        justify-content: center;
-        padding: 20px;
-        margin: 0 25px;
-    }
-    .second-circles {
-        display: flex;
-        align-content: center;
-        margin-top: 10px;
-
 .first-circles {
     display: flex;
     justify-content: center;
@@ -26,6 +14,7 @@ li {
     display: flex;
     align-content: center;
     margin-top: 10px;
+
 }
 
 .dots {
@@ -39,7 +28,6 @@ li {
     color: white;
     border: solid white 5px;
 }
-
 
 .dot {
     height: 25px;
@@ -89,27 +77,19 @@ h1 {
 }
 
 
-/*.header-img {*/
+.header-img {
+    top: 10px;
+    /*width: 525px;*/
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 25px auto;
+}
+
+/*.laptop-img {*/
 /*    display: flex;*/
 /*    justify-content: center;*/
-/*    background-color: white;*/
-/*    margin: 0;*/
+/*    height: auto;*/
+/*    background-color: none;*/
 /*}*/
 
-
-
-    .header-img {
-        top: 10px;
-        /*width: 525px;*/
-        display: flex;
-        justify-content: center;
-        background-color: white;
-        margin: 25px auto;
-    }
-
-    /*.laptop-img {*/
-    /*    display: flex;*/
-    /*    justify-content: center;*/
-    /*    height: auto;*/
-    /*    background-color: none;*/
-    /*}*/
